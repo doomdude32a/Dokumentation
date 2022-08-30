@@ -10,8 +10,8 @@ Angel.Angelov
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | Heute haben wir mit unseren Erseten Projekt angefangen und Dokumntation |
-|       | ...     |                                                              |
+|23.08.2022| 0.0.1   | Heute haben wir mit unseren Erseten Projekt angefangen und Dokumntation |
+|30.08.2022| 0.0.2     |Heute habe ich die Grundprinzip von die Program gemacht und kann die jetzt benutzen|
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -55,7 +55,7 @@ Mein ersten Auftrag ist eine Numberguesser Spiel zu programieren.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 23.08.2022| Ich          |    Informirung und Dokumentation  | 3 Arbeitspakete  |
+| 1.A  | 23.08.2022| Ich          |    Informirung und Dokumentation  | 1 Arbeitspaket  |
 | 2.A  | 30.08.2022| Ich         | Der Grundprinzip dür Programm programieren       | 3.Arbeitspakete |
 | 3.A  | 6.09.2022          | Ich         | Zahlen läser programieren                        | 3.Arbeitspakete |
 | 4.A  | 13.09.2022| Ich    |  Abschluss' testen und Abgabe | 4.Arbeitspakete|
@@ -73,8 +73,9 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 30.08.2022      |Informirung und Dokumentation|1.Arpeitspaket/45.min|    10.min               |
+| 2.A  | 30.08.2022      |Der Grundprinzip dür Programm programieren | 3.Arbeitspakete |  3.Arbeitspakete  |
+| 3.A  | 30.08.2022      |Zahlen läser programieren |3.Arbeitspakete|1.Arbeitspaket|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
