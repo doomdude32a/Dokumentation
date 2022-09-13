@@ -11,8 +11,8 @@ Angel.Angelov
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |23.08.2022| 0.0.1   | Heute haben wir mit unseren Erseten Projekt angefangen und Dokumntation |
-|30.08.2022| 0.0.2     |Heute habe ich die Grundprinzip von die Program gemacht und kann die jetzt benutzen|
-|       | 1.0.0   |                                                              |
+|30.08.2022| 0.0.2   |  |Heute habe ich die Grundprinzip von die Program gemacht und kann die jetzt benutzen|
+|06.09.2022 | 0.0.3   |   Heute habe ich meine Program                                                          |
 
 ## 1 Informieren
 
@@ -38,9 +38,10 @@ Mein ersten Auftrag ist eine Numberguesser Spiel zu programieren.
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Apk starten zufällige Zahl generiren und Auf Eingabe warten|`""`|Geben sie bitte ein zahl ein| 
 | 2.1  | Apk gestrtet zufällige Zahl generiert  |Zahlen| Die zufällige Zahl ist kleiner/Geben sie bitte ein zahl ein|
-| 3.1  | Apk gestartet zufällige Zahl generiert |Zahln | Glückwunsch sie haben es geschaft|
-| 4.1    | Apk gestartet zufällige Zahl eratet    | `""` | Möchten sie nochmal spielen|
-| 5.1  | Apk gestartet zufällige Zahl eratet | JA   | Apk wird nochmal gestartet |
+| 3.1  | Apk gestartet zufällige Zahl generiert    | Buchstaben eingegen |Geben sie bitte nur zahlen ein|
+| 4.1  | Apk gestartet zufällige Zahl generiert |Zahlen | Glückwunsch sie haben es geschaft|
+| 5.1  | Apk gestartet zufällige Zahl eratet    | `""` | Möchten sie nochmal spielen|
+| 6.1  | Apk gestartet zufällige Zahl eratet | JA   | Apk wird nochmal gestartet |
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
@@ -58,7 +59,7 @@ Mein ersten Auftrag ist eine Numberguesser Spiel zu programieren.
 | 1.A  | 23.08.2022| Ich          |    Informirung und Dokumentation  | 1 Arbeitspaket  |
 | 2.A  | 30.08.2022| Ich         | Der Grundprinzip dür Programm programieren       | 3.Arbeitspakete |
 | 3.A  | 6.09.2022          | Ich         | Zahlen läser programieren                        | 3.Arbeitspakete |
-| 4.A  | 13.09.2022| Ich    |  Abschluss' testen und Abgabe | 4.Arbeitspakete|
+| 4.A  | 13.09.2022| Ich    |  Abschluss' testen und Abgabe | 2.Arbeitspakete|
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
@@ -85,8 +86,12 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 13.09.2022|Program wird gestartet, Zahl wird genereirt und wartet auf die eingabe, funktioniert| Angel Angelov       |
+| 1.1  | 13.09.2022|Zahlen eingeben und es zeigt ob der Zahl grösser/kleiner ist, finktioniert         | Angel Angelov       |
+| 1.1  | 13.09.2022|Buchstaben eingeben, program schmiert nicht ab und sgt das man keine Zahlen eingegeben hat     | Angel Angelov       |
+| 1.1  | 13.09.2022|Zahl eraten, Program zeigt wie viele verscuche man gebraucht hat, funktioniert      | Angel Angelov       |
+| 1.1  | 13.09.2022|Program fragt ob man noch mal spieleb will       | Angel Angelov       |
+| 1.1  | 13.09.2022|Wenn man ja eingibt wiederhollt sich das Program und wenn nein ist es fertig     | Angel Angelov       |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
@@ -94,8 +99,8 @@ Total:
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+| I |Programm funktioniert und wartet auf eingabe    | " . und , "|   Geben s   |    eror    |
+
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
